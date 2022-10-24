@@ -1,0 +1,19 @@
+[
+    {"_id":"58c03ac18060197ca0b52d51","author":"Julia",
+    "img":"https://api.lorem.space/image/face?hash=64318",
+    "store":"58c03a958060197ca0b52d50","text":"I tried this place last week and it was incredible! Amazing selection of local and imported brews and the food is to die for! ","rating":"5","created":"2017-03-08T17:09:21.627Z"},
+
+    {"_id":"58c03af28060197ca0b52d53","author":"Kely",
+    "img":"https://api.lorem.space/image/face?hash=91831",
+    "store":"58c03a958060197ca0b52d50","text":"hipsters everywhere","rating":"1","created":"2017-03-08T17:10:10.426Z"},
+
+    {"_id":"58c08780bbb1a51e0d43a050","author":"Jovan","img":"https://api.lorem.space/image/face?hash=27312","store":"58c065dbbbb1a51e0d43a04f","text":"Always a great spot to grab a coffee with a friend. ","rating":"5","created":"2017-03-08T22:36:48.575Z"},
+    
+    {"_id":"58c08796bbb1a51e0d43a051","author":"Jonny","img":"https://api.lorem.space/image/face?hash=27312","store":"58c061518060197ca0b52d5e","text":"Great ramen, a little pricey for what you get. ","rating":"3","created":"2017-03-08T22:37:10.483Z"},
+    
+    {"_id":"58c087acbbb1a51e0d43a052","author":"Nikki","img":"https://api.lorem.space/image/face?hash=64318","store":"58c060e98060197ca0b52d5d","text":"Tried this place with my wife last week and it was incredible. ","rating":"4","created":"2017-03-08T22:37:32.829Z"},
+    
+    {"_id":"58c087b9bbb1a51e0d43a053","author":"RM","img":"https://api.lorem.space/image/face?hash=64318","store":"58c0609b8060197ca0b52d5c","text":"Pretty good soups. ","rating":"4","created":"2017-03-08T22:37:45.917Z"},
+    {"_id":"58c087debbb1a51e0d43a054","author":"Kevin","img":"https://api.lorem.space/image/face?hash=27312","store":"58c060558060197ca0b52d5b","text":"If you need a great place with bangin' food that is open late, look no further than work.  ","rating":"2","created":"2017-03-08T22:38:22.858Z"},
+    {"_id":"58c087f4bbb1a51e0d43a055","author":"Olivia","img":"https://api.lorem.space/image/face?hash=64318","store":"58c05fd08060197ca0b52d5a","text":"$12 Banana smoothies. I'd skip this one next time. ","rating":"1","created":"2017-03-08T22:38:44.128Z"}
+]
